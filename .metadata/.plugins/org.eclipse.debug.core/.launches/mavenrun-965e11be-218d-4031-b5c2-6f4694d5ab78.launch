@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.m2e.Maven2LaunchConfigurationType">
+    <booleanAttribute key="M2_BATCH" value="false"/>
+    <stringAttribute key="M2_GOALS" value="-U archetype:generate"/>
+    <listAttribute key="M2_PROPERTIES">
+        <listEntry value="moduleName=NONE"/>
+        <listEntry value="archetypeGroupId=org.moditect.ossquickstart"/>
+        <listEntry value="archetypeArtifactId=oss-quickstart-simple-archetype"/>
+        <listEntry value="archetypeVersion=1.0.0.Alpha1"/>
+        <listEntry value="groupId=org.ttn"/>
+        <listEntry value="artifactId=MyNewProject"/>
+        <listEntry value="version=0.0.1-SNAPSHOT"/>
+        <listEntry value="package=org.ttn"/>
+        <listEntry value="outputDirectory=C:\Users\Saurav Sagar\eclipse-workspace\saurav"/>
+    </listAttribute>
+    <booleanAttribute key="M2_SAVE_BEFORE_LAUNCH" value="false"/>
+    <booleanAttribute key="org.eclipse.debug.ui.private" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="C:\Users\SAURAV~1\AppData\Local\Temp\m2e-archetypeGenerator13130928054642900731"/>
+</launchConfiguration>

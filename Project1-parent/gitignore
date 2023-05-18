@@ -1,0 +1,30 @@
+# idea ignore
+.idea/
+*.iml
+*/*.iml
+
+# eclipse ignore
+.project
+.classpath
+/.settings
+target
+*/.gitigore
+*/.project
+*/.classpath
+*/.settings
+*/target
+
+# mvn ignore
+pom.xml.versionsBackup
+*/pom.xml.versionsBackup
+
+Project1-api/src
+Project1-api-test/src/main
+Project1-api-test/src/test/data
+Project1-api-test/src/test/java
+Project1-api-test/src/test/resources/testng.xml
+Project1-base/src
+Project1-bundle/src
+Project1-bundle-mock/src
+
+
